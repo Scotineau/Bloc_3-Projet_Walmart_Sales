@@ -1,5 +1,9 @@
 # Bloc_3-Projet_Walmart_Sales
 
+## Project's presentation 🎥
+https://share.vidyard.com/watch/qob8NzyzYfPX2ypFasArZr?![image](https://user-images.githubusercontent.com/94960539/175549998-5b85fc30-0355-4aba-9c45-776fdfdabf9c.png)
+
+
 ## Goals 🎯
 * Walmart's marketing service wants to estimate / to forecast their weekly sales.
 * To achieve / answer this goal, a machine learning model will be build, with the best precision possible on the predictions made.
